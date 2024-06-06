@@ -3,7 +3,7 @@
   <Class Name="TaskSheduler.Program">
     <Position X="3.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <HashCode>AAABBCDAAACAAAAAAEAAABAAAACABEAAgIAABgAVAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -23,14 +23,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="_8_lab_oop_kpi.TaskManager">
-    <Position X="6.25" Y="4" Width="1.5" />
+    <Position X="6.5" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIABCIAAAAQAAAAAAAAAAAAgAAAAEgAAAAAAAAAAAA=</HashCode>
       <FileName>TaskManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="_8_lab_oop_kpi.Team">
-    <Position X="3.75" Y="4" Width="1.5" />
+    <Position X="4.5" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAkAAQAAAAAAQAAAAA=</HashCode>
       <FileName>Team.cs</FileName>
